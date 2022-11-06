@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">RupaBali</string>
+
+    // Static Content
+    <string name="onboarding_title_1">Pengenalan Budaya Seni Rupa Tradisional Bali</string>
+    <string name="onboarding_description_1">Rupa Bali berusaha mengenalkan Budaya Seni Rupa Tradisional Bali kepada masyarakat hingga wisatawan.</string>
+    <string name="onboarding_title_2">Pelestarian Budaya Seni Rupa Tradisional Bali</string>
+    <string name="onboarding_description_2">Rupa Bali memberikan tempat bagi generasi muda untuk belajar dan berbagi Seni Rupa Tradisional Bali.</string>
+    <string name="onboarding_title_3">Pemberdayaan Seniman Seni Rupa Tradisional Bali</string>
+    <string name="onboarding_description_3">Rupa Bali memberikan tempat bagi seniman untuk membagikan hasil karyanya.</string>
+    <string name="title_activity_splashscreen">SplashscreenActivity</string>
+
+    // Label
+    <string name="label_email">Email</string>
+
+    // Label Button
 </resources>

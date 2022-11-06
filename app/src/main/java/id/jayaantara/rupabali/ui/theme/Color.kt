@@ -2,7 +2,7 @@ package id.jayaantara.rupabali.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
-val Purple200 = Color(0xFFBB86FC)
-val Purple500 = Color(0xFF6200EE)
-val Purple700 = Color(0xFF3700B3)
-val Teal200 = Color(0xFF03DAC5)
+val LightBrown = Color(0xFFCEC9B8)
+val Brown = Color(0xFF957121)
+val DarkBrown = Color(0xFF362706)
+val Gold200 = Color(0xFFDAA502)
